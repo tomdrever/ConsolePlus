@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>ConsolePlus.dll</id>
+    <version>1.0.0</version>
+    <authors>Tom Drever</authors>
+    <owners>Tom Drever</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>C# additional console stuff</description>
+    <copyright>Copyright 2015</copyright>
+    <tags>C# Console</tags>
+  </metadata>
+</package>

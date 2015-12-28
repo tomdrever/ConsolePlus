@@ -1,0 +1,5 @@
+F:\ProjectDirectory\ConsolePlus\ConsolePlus\bin\Debug\ConsolePlus.dll
+F:\ProjectDirectory\ConsolePlus\ConsolePlus\bin\Debug\ConsolePlus.pdb
+F:\ProjectDirectory\ConsolePlus\ConsolePlus\obj\Debug\ConsolePlus.csprojResolveAssemblyReference.cache
+F:\ProjectDirectory\ConsolePlus\ConsolePlus\obj\Debug\ConsolePlus.dll
+F:\ProjectDirectory\ConsolePlus\ConsolePlus\obj\Debug\ConsolePlus.pdb
